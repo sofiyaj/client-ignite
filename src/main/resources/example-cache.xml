@@ -48,6 +48,7 @@
             </list>
         </property>
 
+        <property name="clientMode" value="true"/>
         <property name="peerClassLoadingEnabled" value="true"/>
 
         <!-- Explicitly configure TCP discovery SPI to provide list of initial nodes. -->
